@@ -59,6 +59,7 @@
         '{userName}のいいところは気配りです。{userName}の配慮が多くの人を救っています。',
         '{userName}のいいところはその全てです。ありのままの{userName}自身がいいところなのです。',
         '{userName}のいいところは自制心です。まずいと思った時にしっかりと衝動を抑えられる{userName}がみんなから高く評価されています。'
+        '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。'
     ];
 function asswssment(userName){
     let sumOfcharCode=0;
